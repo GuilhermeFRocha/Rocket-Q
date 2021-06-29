@@ -1,0 +1,10 @@
+.effect-apollo {
+    -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
+    width: 270px;
+    height: 279px;
+    max-width: fit-content;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
